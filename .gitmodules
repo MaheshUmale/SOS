@@ -1,0 +1,6 @@
+[submodule "data-bridge"]
+	path = data-bridge
+	url = https://github.com/MaheshUmale/SOS-System-DATA-Bridge
+[submodule "core-engine"]
+	path = core-engine
+	url = https://github.com/MaheshUmale/Scalping-Orchestration-System-SOS-
